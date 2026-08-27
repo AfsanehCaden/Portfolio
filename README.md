@@ -1,2 +1,2 @@
 # Portfolio
-Data science, business intelligence, and machine learning portfolio featuring interactive dashboards and predictive modeling projects.
+Personal portfolio featuring projects in business intelligence, healthcare machine learning, and transformer-based language modeling.
